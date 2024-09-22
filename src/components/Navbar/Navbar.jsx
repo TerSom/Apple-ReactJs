@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="bg-warna_navbar w-full h-12 md:h-11 flex justify-center ">
       <div className=" max-w-[1024px] flex items-center justify-center w-full h-full">
         <div className="w-[96%] h-[90%] flex items-center justify-between text-warna_apple">
-          <Link to='/' className="bx bxl-apple text-[23px] md:text-[20px]"></Link>
+          <Link to='/Apple-ReactJs/' className="bx bxl-apple text-[23px] md:text-[20px]"></Link>
           <div className=" hidden md:w-[87%] md:h-full md:flex items-center justify-between text-xs">
           <a href="">Mac</a>
           <a href="">iPad</a>
